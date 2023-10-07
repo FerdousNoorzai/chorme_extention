@@ -1,8 +1,8 @@
 {
-    "name": "Simple Youtube Dowloader",
-    "description": "Download youtube videos simple then before.",
+    "name": "Youtube Downloader",
+    "description": "Download YouTube videos simply than before.",
     "version": "0.1",
-    "author": "Abdullah Kaamil",
+    "author": "Abdullah Kaamil", "Ferdous Noorzai",
     "manifest_version": 2,
     "web_accessible_resources": [
         "src/youtubedl.js"
